@@ -1,2 +1,2 @@
-# Iv-curve-of-solar-cell
-Iv curve of  solar cell in different times
+# Fundamentals of RDkit
+fundamentals-of-RDkit
